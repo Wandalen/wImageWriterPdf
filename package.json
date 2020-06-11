@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterPdf/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewriterpdf" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewriterpdf" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
