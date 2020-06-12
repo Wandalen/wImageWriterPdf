@@ -3,8 +3,8 @@ root:
   - wImageWriterPdf.out
 consistency:
   ../.ex.will.yml: &ref_0
-    hash: ef83829d895cddc9bd5377711259cc3a
-    size: 1702
+    hash: ec6edc4ce61229c213982169502c9984
+    size: 1703
   ../.im.will.yml: &ref_1
     hash: 4bd2ad8e081461ac0a9600e6aa2abea9
     size: 4662
@@ -1423,8 +1423,8 @@ module:
           - 'build::npm'
     consistency:
       ../.ex.will.yml:
-        hash: ef83829d895cddc9bd5377711259cc3a
-        size: 1702
+        hash: ec6edc4ce61229c213982169502c9984
+        size: 1703
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
