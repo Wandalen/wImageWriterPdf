@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: c30c79513c6e4da3280368cd7767148e
         size: 4660
-      wImageWriterPdf.out.will.yml:
-        hash: 69cc971d9bbee01e681b2bf24a1c3d26
-        size: 37011
+      wImageWriterPdf.out.will.yml: *ref_0
