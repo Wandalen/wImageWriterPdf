@@ -1,10 +1,10 @@
 {
   "name" : "wimagewriterpdf",
-  "version" : "0.2.70",
+  "version" : "0.2.71",
   "description" : "___",
   "author" : "Kostiantyn Wandalen <wanalen@01.school>",
   "license" : "MIT",
-  "main" : "/pro/module/wImageWriterPdf/proto/node_modules/wimagewriterpdf",
+  "main" : "proto/node_modules/wimagewriterpdf",
   "files" : [ "proto/wtools/___", "proto/wtools/Tools.s", "proto/node_modules" ],
   "scripts" : { "test" : "wtest .run proto rapidity:-3", "docgen" : "wdocgen .build proto" },
   "repository" :
