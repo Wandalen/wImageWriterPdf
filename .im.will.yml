@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wImageWriterPdf/proto/wtools/Tools.s
-    - /pro/module/wImageWriterPdf/proto/node_modules/wimagewriterpdf
+    - proto/wtools/Tools.s
+    - proto/node_modules/wimagewriterpdf
 reflector:
   reflect.proto:
     inherit: predefined.*
